@@ -1,0 +1,12 @@
+[
+    {
+        "description": "gh",
+        "amount": 100.0,
+        "date": "1992-12-06"
+    },
+    {
+        "description": "test",
+        "amount": 70.0,
+        "date": "2024-11-02"
+    }
+]
